@@ -39,7 +39,7 @@ research line and may be openly released by the author at any time.
 
 Author: Elias, Martha
 Version: v1.0 (October 2025)
-marthaelias [at] protonmail [dot] com
+I want ro get hired! Contact: marthaelias [at] protonmail [dot] com
 """
 """
 two_joints.py — simplified Ξ demo with 2 joints
