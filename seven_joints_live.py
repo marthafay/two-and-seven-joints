@@ -39,7 +39,7 @@ research line and may be openly released by the author at any time.
 
 Author: Elias, Martha
 Version: v1.0 (October 2025)
-marthaelias [at] protonmail [dot] com
+I want to get hired! Contact: marthaelias [at] protonmail [dot] com
 """
 # seven_joints_live.py
 # research only. Apache 2.0. Keine Gewähr.
